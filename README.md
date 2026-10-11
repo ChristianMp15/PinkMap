@@ -1,4 +1,5 @@
 # PinkMap
+<<<<<<< HEAD
 
 PinkMap is a route app for Houston that helps drivers pick the **calmer** way to get somewhere. It compares how long a trip takes *right now* (with traffic) to how long it *normally* takes, and flags routes that are running slower or faster than usual.
 
@@ -41,3 +42,6 @@ The first time you open it, it asks for a free Mapbox public token (make one at 
 ## Data and privacy
 
 We only use public places (parks, campuses, libraries, community centers). No home addresses and no personal travel history are collected.
+=======
+PinkMap is a route app for Houston that helps drivers pick the calmer way to get somewhere. It compares how long a trip takes right now (with traffic) to how long it normally takes, and flags routes that are running slower or faster than usual.
+>>>>>>> 6f45f60532b708ef0b3ce6a43e145d1e2e479c1e
