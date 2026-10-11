@@ -1,0 +1,47 @@
+collected_at,route_id,origin,destination,distance_miles,traffic_seconds,typical_seconds,day_of_week,hour,traffic_delay_seconds,traffic_status,is_weekend,time_period,rush_hour,avg_speed_mph
+2026-10-10 08:34:35,15,Houston Sports Park,Discovery Green,9.762,867.6,822.224,Saturday,8,45.375999999999976,slower,1,morning,1,40.50622406639004
+2026-10-10 13:29:45,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,967.6,860.64,Saturday,13,106.96000000000004,slower,1,afternoon,0,27.167424555601485
+2026-10-10 13:29:45,1,Houston City College,Houston City College West Loop Campus,6.136,1177.0,690.872,Saturday,13,486.12800000000004,slower,1,afternoon,0,18.767714528462193
+2026-10-10 13:29:46,4,Discovery Green,Hermann Park,4.807,830.5,788.462,Saturday,13,42.03800000000001,slower,1,afternoon,0,20.837086092715232
+2026-10-10 13:29:46,5,Discovery Green,University of Houston,3.454,803.3,761.646,Saturday,13,41.653999999999996,slower,1,afternoon,0,15.479148512386407
+2026-10-10 13:29:46,3,Houston City College,Rice University,3.135,1084.9,1059.108,Saturday,13,25.792000000000144,normal,1,afternoon,0,10.40280210157618
+2026-10-10 13:29:47,6,Houston City College West Loop Campus,Levy Park,2.871,521.6,545.721,Saturday,13,-24.12099999999998,normal,1,afternoon,0,19.815184049079754
+2026-10-10 13:29:47,7,Houston City College West Loop Campus,Hermann Park,6.28,1032.5,966.543,Saturday,13,65.957,slower,1,afternoon,0,21.896368038740924
+2026-10-10 13:29:47,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,936.3,872.798,Saturday,13,63.50199999999995,slower,1,afternoon,0,29.25985261134252
+2026-10-10 13:29:47,9,Memorial Park,Discovery Green,5.904,996.0,811.733,Saturday,13,184.26700000000005,slower,1,afternoon,0,21.339759036144578
+2026-10-10 13:29:48,10,Rice University,Space Center Houston,31.402,2487.5,2485.329,Saturday,13,2.1709999999998217,normal,1,afternoon,0,45.44611055276382
+2026-10-10 13:29:48,11,Central Library,Houston Museum of Natural Science,3.547,963.1,823.678,Saturday,13,139.42200000000003,slower,1,afternoon,0,13.258436299449693
+2026-10-10 13:29:49,15,Houston Sports Park,Discovery Green,9.762,1142.7,942.162,Saturday,13,200.538,slower,1,afternoon,0,30.75452874770281
+2026-10-10 13:29:49,12,University of Houston,NRG Arena,9.179,990.0,951.414,Saturday,13,38.58600000000001,slower,1,afternoon,0,33.378181818181815
+2026-10-10 13:29:49,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1551.0,1376.418,Saturday,13,174.5820000000001,slower,1,afternoon,0,35.16441005802708
+2026-10-10 13:29:49,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1239.3,1115.188,Saturday,13,124.11199999999985,slower,1,afternoon,0,32.688453159041394
+2026-10-10 17:26:40,3,Houston City College,Rice University,3.135,1080.8,1026.873,Saturday,17,53.92699999999991,slower,1,evening,1,10.442264988897113
+2026-10-10 17:26:40,1,Houston City College,Houston City College West Loop Campus,6.136,845.7,675.107,Saturday,17,170.59300000000007,slower,1,evening,1,26.11990067399787
+2026-10-10 17:26:40,2,Houston City College,Houston City College Northeast - Northline Campus,7.302,896.7,813.437,Saturday,17,83.26300000000003,slower,1,evening,1,29.315490130478416
+2026-10-10 17:26:41,4,Discovery Green,Hermann Park,4.807,788.7,751.318,Saturday,17,37.38200000000006,slower,1,evening,1,21.94142259414226
+2026-10-10 17:26:41,5,Discovery Green,University of Houston,3.454,733.0,770.606,Saturday,17,-37.605999999999995,faster,1,evening,1,16.963710777626194
+2026-10-10 17:26:41,6,Houston City College West Loop Campus,Levy Park,2.871,489.9,514.662,Saturday,17,-24.762000000000057,normal,1,evening,1,21.09736680955297
+2026-10-10 17:26:41,7,Houston City College West Loop Campus,Hermann Park,6.28,975.0,923.63,Saturday,17,51.370000000000005,slower,1,evening,1,23.18769230769231
+2026-10-10 17:26:41,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,930.6,903.159,Saturday,17,27.44100000000003,normal,1,evening,1,29.43907156673114
+2026-10-10 17:26:42,9,Memorial Park,Discovery Green,5.904,1044.5,843.812,Saturday,17,200.688,slower,1,evening,1,20.34887505983724
+2026-10-10 17:26:42,10,Rice University,Space Center Houston,28.129,2480.5,2333.437,Saturday,17,147.0630000000001,slower,1,evening,1,40.82418867163879
+2026-10-10 17:26:42,11,Central Library,Houston Museum of Natural Science,4.411,904.9,803.6,Saturday,17,101.29999999999995,slower,1,evening,1,17.548458393192618
+2026-10-10 17:26:42,12,University of Houston,NRG Arena,9.179,959.9,917.505,Saturday,17,42.39499999999998,slower,1,evening,1,34.42483592040838
+2026-10-10 17:26:42,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.15,1458.9,1291.475,Saturday,17,167.42500000000018,slower,1,evening,1,37.38433066008637
+2026-10-10 17:26:42,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,1094.6,1035.334,Saturday,17,59.26599999999985,slower,1,evening,1,37.009683902795544
+2026-10-10 17:26:43,15,Houston Sports Park,Discovery Green,9.764,1058.3,971.445,Saturday,17,86.8549999999999,slower,1,evening,1,33.21402248889729
+2026-10-11 00:10:26,2,Houston City College,Houston City College Northeast - Northline Campus,7.301,801.4,791.933,Sunday,0,9.466999999999985,normal,1,morning,0,32.79710506613427
+2026-10-11 00:10:26,1,Houston City College,Houston City College West Loop Campus,7.005,642.6,645.238,Sunday,0,-2.6380000000000337,normal,1,morning,0,39.24369747899159
+2026-10-11 00:10:27,3,Houston City College,Rice University,3.135,893.5,1006.475,Sunday,0,-112.97500000000002,faster,1,morning,0,12.631225517627307
+2026-10-11 00:10:27,4,Discovery Green,Hermann Park,4.807,746.5,744.77,Sunday,0,1.7300000000000182,normal,1,morning,0,23.181781647689217
+2026-10-11 00:10:27,5,Discovery Green,University of Houston,3.454,711.8,849.668,Sunday,0,-137.86800000000005,faster,1,morning,0,17.46895195279573
+2026-10-11 00:10:27,6,Houston City College West Loop Campus,Levy Park,2.871,464.6,503.307,Sunday,0,-38.706999999999994,faster,1,morning,0,22.24623331898407
+2026-10-11 00:10:28,7,Houston City College West Loop Campus,Hermann Park,6.28,825.9,859.941,Sunday,0,-34.041000000000054,faster,1,morning,0,27.37377406465674
+2026-10-11 00:10:28,8,Houston City College Northeast - Northline Campus,Discovery Green,7.61,796.1,766.898,Sunday,0,29.201999999999998,normal,1,morning,0,34.41276221580204
+2026-10-11 00:10:28,9,Memorial Park,Discovery Green,5.904,863.2,911.865,Sunday,0,-48.664999999999964,faster,1,morning,0,24.622798887859126
+2026-10-11 00:10:29,10,Rice University,Space Center Houston,28.13,2145.3,2239.691,Sunday,0,-94.39099999999962,faster,1,morning,0,47.20458677108096
+2026-10-11 00:10:29,11,Central Library,Houston Museum of Natural Science,4.832,693.0,701.95,Sunday,0,-8.950000000000045,normal,1,morning,0,25.1012987012987
+2026-10-11 00:10:29,12,University of Houston,NRG Arena,9.177,890.3,943.22,Sunday,0,-52.92000000000007,faster,1,morning,0,37.10794114343479
+2026-10-11 00:10:29,13,Houston City College Northwest - Spring Branch Campus,Houston City College,15.892,1075.7,1089.685,Sunday,0,-13.9849999999999,normal,1,morning,0,53.18508877939946
+2026-10-11 00:10:30,14,Houston City College West Loop Campus,Houston City College Northwest - Spring Branch Campus,11.253,865.8,897.12,Sunday,0,-31.32000000000005,faster,1,morning,0,46.79002079002079
+2026-10-11 00:10:30,15,Houston Sports Park,Discovery Green,9.762,833.0,830.936,Sunday,0,2.0639999999999645,normal,1,morning,0,42.18871548619448
