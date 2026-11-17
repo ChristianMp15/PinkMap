@@ -58,18 +58,18 @@ def get_route_row(trip):
     }
 
 
-def main():
-    if not TOKEN:
-        print("MAPBOX_TOKEN is missing. Add it as a GitHub Secret.")
-        sys.exit(1)
+#def main():
+    #if not TOKEN:
+     #   print("MAPBOX_TOKEN is missing. Add it as a GitHub Secret.")
+      #  sys.exit(1)
 
-    rows = []
-    for trip in ROUTES:
-        try:
-            rows.append(get_route_row(trip))
-            print("OK   trip", trip["route_id"])
-        except Exception as error:
-            print("FAIL trip", trip["route_id"], "-", error)
+    #rows = []
+    #for trip in ROUTES:
+       # try:
+          #  rows.append(get_route_row(trip))
+           # print("OK   trip", trip["route_id"])
+        #except Exception as error:
+          #  print("FAIL trip", trip["route_id"], "-", error)
 
     if not rows:
         print("No rows collected.")
